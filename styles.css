@@ -1,0 +1,76 @@
+
+.askout {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    justify-content: center;
+  }
+
+  .bgimg{
+    width: 100%;
+    opacity: 30%;
+  }
+  .hisname{
+    font-size: 80px;
+    color: black;
+  }
+
+  .question{
+    margin: auto;
+    font-size: 30px;
+    color: black;
+  }
+
+  .note{
+    justify-content: center;
+    align-items: center;
+    background-color: #A4133C;
+    color: #FFF0F3;
+    height: 100vh;
+    text-align: center;
+    text-justify: center;
+  }
+
+  .video{
+
+    justify-content: center;
+    align-items: center;
+    background-color: #FFCCD5;
+    padding: auto;
+  }
+  .video video{
+    margin-left: 15%;
+  }
+.notepara{
+    margin-top:20%;
+    font-family: 'Comic Sans MS', cursive; /* Cute font family */
+    font-size: 20px;
+    line-height: 1.6; /* Text color */
+    margin-bottom: 20px;
+  }
+
+  .animation{
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #C9184A;
+    color: #FFF0F3;
+  }
+
+  .lastq{
+    justify-content: center;
+    align-items: center;
+    background-color: #FFB3C1;
+    color: #FFF0F3;
+    height: 100vh;
+    text-align: center;
+    text-justify: center;
+  }
